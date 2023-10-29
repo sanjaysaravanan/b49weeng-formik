@@ -1,0 +1,13 @@
+.container {
+  text-align: center;
+}
+
+.container form {
+  margin: 16px;
+  border: 2px solid;
+  padding: 16px;
+}
+
+.container span {
+  color: red;
+}
